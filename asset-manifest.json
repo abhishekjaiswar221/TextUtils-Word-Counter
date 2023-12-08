@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TextUtils-Word-Counter/static/css/main.2453e9da.css",
+    "main.js": "/TextUtils-Word-Counter/static/js/main.7957efba.js",
+    "index.html": "/TextUtils-Word-Counter/index.html",
+    "main.2453e9da.css.map": "/TextUtils-Word-Counter/static/css/main.2453e9da.css.map",
+    "main.7957efba.js.map": "/TextUtils-Word-Counter/static/js/main.7957efba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2453e9da.css",
+    "static/js/main.7957efba.js"
+  ]
+}
